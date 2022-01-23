@@ -1,0 +1,19 @@
+{
+  "name": "nft-testing",
+  "version": "1.0.0",
+  "description": "Progetto di test per gestione NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://marcobombara@github.com/marcobombara/nft-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcobombara/nft-testing/issues"
+  },
+  "homepage": "https://github.com/marcobombara/nft-testing#readme"
+}
